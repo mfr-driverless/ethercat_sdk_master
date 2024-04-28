@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/leggedrobotics/ethercat_sdk_master.git
+	branch = master
+	commit = 6b420bc1785cf26324aab62c79347b2a6e07924d
+	parent = 6ff885a72dd0ae909c95400b737e8f2df8cf9083
+	method = merge
+	cmdver = 0.4.3
